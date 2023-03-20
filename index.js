@@ -1,1 +1,1 @@
-export { default as deepClone } from 'src/deepClone/deepClone'
+export { deepClone } from './lib/common_utils.js'
